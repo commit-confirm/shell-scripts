@@ -4,6 +4,7 @@
 # https://unix.stackexchange.com/questions/355217/return-the-output-of-a-command-into-an-associative-array/355221
 # https://stackoverflow.com/questions/20805782/build-an-associative-array-from-an-input-data
 # https://bash.cyberciti.biz/guide/$IFS
+# Bash does not support multidimensional array (key:lists or key:array)  
 
 declare -A IP_PORT
 
